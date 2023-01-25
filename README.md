@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# Contador de truco online
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción
 
-## Available Scripts
-
-In the project directory, you can run:
+Esta es una aplicación para practicar. Se trata de un contador de puntos del famosos juego argentino.
+Fue creada con React JS
 
 ### `npm start`
 

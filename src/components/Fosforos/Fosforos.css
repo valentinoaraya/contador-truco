@@ -1,0 +1,11 @@
+.img{
+    width: 6rem;
+    height: 8rem;
+}
+
+.divImg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

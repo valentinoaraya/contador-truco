@@ -1,0 +1,23 @@
+.contador{
+    display: flex;
+    justify-content: space-around;
+}
+
+.divisor{
+    height: 85vh;
+    width: 2px;
+    background-color: black;
+}
+
+.buenas{
+    font-size: 1.5rem;
+    color: rgb(194, 32, 32);;
+}
+
+.ganador{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vw;
+}

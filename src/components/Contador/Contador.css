@@ -1,6 +1,8 @@
 .contador{
     display: flex;
     justify-content: space-around;
+    max-width: 700px;
+    margin: auto
 }
 
 .divisor{
